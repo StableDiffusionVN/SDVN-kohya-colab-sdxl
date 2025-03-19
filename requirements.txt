@@ -32,3 +32,4 @@ lycoris-lora==1.8.1.dev3
 -e .
 jax==0.4.20
 jaxlib==0.4.20
+numpy<2.0
